@@ -4,5 +4,5 @@ first test repository
 
 Hi,
 
-This is first repository.
+This is my first repository.
 Looking forward to do great webdesigns and web development.
